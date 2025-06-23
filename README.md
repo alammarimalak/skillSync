@@ -49,13 +49,6 @@ click on this link : https://alammarimalak.github.io/skillSync/
    - Click the "Export to PDF" button
    - A clean PDF report will be generated and downloaded automatically
 
-## Customization
-
-You can easily customize SkillSync by modifying:
-
-- **Colors**: Change the color scheme in the JavaScript file (look for the `colors` array)
-- **Icons**: Add or change icons from Font Awesome
-- **Layout**: Adjust the styling in the CSS or Tailwind classes
 
 ---
 
